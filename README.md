@@ -1,1 +1,1 @@
-# Исходный код WintWare клиента для Minecraft 1.12.2
+# WW Open-SRC Project (WintWare open-source project)
