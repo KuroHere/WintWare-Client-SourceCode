@@ -1,1 +1,3 @@
-# WW Open-SRC Project (WintWare open-source project)
+# WintWare Open Source Project (WOSP)
+!!WORK IN PROGRESS!!
+Так как многоуважаемый одноклеточный организм (Smertnix или же Spermix) считает себя лучшим и даже не признает свои скиды и все отрицает, а если дело доходит до пруфов на то что он скиднул он всегда ливает и начинает говорить что ты сам пастер, то я решил слить исходники b124 версии WintWare.
